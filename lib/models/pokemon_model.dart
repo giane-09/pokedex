@@ -6,7 +6,7 @@ class PokemonModel{
   List<String> type;
   String numPokemon;
   String height;
-
+  
   PokemonModel({
    required this.name,
    required this.img,
