@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   initState(){
     super.initState();
     getDataPokemon();
-
+    
   }
   getDataPokemon() async {
     Uri _uri = Uri.parse(
